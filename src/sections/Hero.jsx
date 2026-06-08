@@ -108,9 +108,11 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Nishanth — a software engineer specializing in React,
-                Next.js, and TypeScript. I Have handsone experiance in building
-                scalable, performant web applications that users love.
+                Hi, I'm Nishanth — a Software Engineer passionate about building
+                scalable web applications and intelligent software solutions.
+                With experience in full-stack development, backend systems, and
+                AI technologies, I enjoy turning complex problems into
+                practical, impactful products.
               </p>
             </div>
 
